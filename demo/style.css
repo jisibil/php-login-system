@@ -1,0 +1,19 @@
+body {
+    background-image:url('img/img.png');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+    -webkit-font-smoothing: antialiased;
+    font: normal 14px Roboto,arial,sans-serif;
+    font-family: 'Dancing Script', cursive!important;
+    padding-top: 7%;
+}
+
+.form-control{
+    background:transparent!important;
+    color:rgb(255, 255, 255)!important;
+    font-size: 18px!important;
+}
+
