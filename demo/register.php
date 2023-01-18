@@ -109,9 +109,11 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 </head>
 <body>
     <center>
-    <div class="wrapper text-white">
+    <div class="wrapper">
         <h2>Sign Up</h2>
+        <br>
         <p>Please fill this form to create an account.</p>
+        <br>
         <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
             <div class="form-group">
                 <label>Username</label>

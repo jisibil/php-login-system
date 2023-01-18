@@ -1,5 +1,5 @@
 body {
-    background-image:url('img/img.png');
+    background-image: url(img/img.png);
     background-position:center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -13,7 +13,7 @@ body {
 
 .form-control{
     background:transparent!important;
-    color:rgb(255, 255, 255)!important;
+    color:black;
     font-size: 18px!important;
 }
 

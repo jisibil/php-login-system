@@ -102,8 +102,9 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 </head>
 <body>
     <center>
-    <div class="wrapper text-white">
+    <div class="wrapper">
         <h2>Login</h2>
+        <br>
         <p>Please fill in your credentials to login.</p>
 
         <?php 
